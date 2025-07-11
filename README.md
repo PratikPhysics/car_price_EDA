@@ -59,7 +59,7 @@ It contains features like:
 Clone the repo and run the notebook:
 
 ```bash
-git clone https://github.com/your-username/car-brand-eda.git
+git clone https://github.com/PratikPhysics/car_price_EDA.git
 cd car-brand-eda
 jupyter notebook
 ```
